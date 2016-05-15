@@ -4,9 +4,9 @@ Generates a set of movies from the TMDB API. Displays the movie in a website. Wh
 <b> API LINK: </b>
 https://github.com/celiao/tmdbsimple
 
-<b> API Instructions </b> \n
-1) Install the API, \n 
+<b> API Instructions </b> <br />
+1) Install the API, <br />
 pip install tmdbsimple
-2) Get an API key, \n
+2) Get an API key, <br />
 https://www.themoviedb.org/?_dc=1463284008
 3) Start coding!
