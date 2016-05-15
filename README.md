@@ -8,3 +8,4 @@ https://github.com/celiao/tmdbsimple
 - Make the movies generated random using random.randint(1,150)
 - Find a way to dynamically generate the video links (Think outside the box)
 - Display description and change the layout formation
+- Update read.me
