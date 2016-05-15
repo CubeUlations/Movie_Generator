@@ -16,3 +16,6 @@ pip install tmdbsimple <br />
 2) Get an API key, <br />
 https://www.themoviedb.org/?_dc=1463284008 <br />
 3) Start coding!
+<br />
+
+IMPORTANT**** WAIT 10 SECONDS BEFORE RUNNING THE PROGRAM DUE TO API'S REQUEST LIMIT. (You'll get a 404 error if you don't)
