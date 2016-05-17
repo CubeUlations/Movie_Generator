@@ -24,6 +24,8 @@ videos = []
 
 
 def youtube_search(options):
+    """ Searches through Youtube and returns a list of results
+    """
     youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
                     developerKey=DEVELOPER_KEY)
     # Call the search.list method to retrieve results matching the specified
@@ -43,7 +45,6 @@ def youtube_search(options):
 
 #  print ("Videos:\n", "\n".join(videos), "\n")
 #  print(videos[1] + "----------")
-
 
 movie = tmdb.Movies(100)
 response = movie.info()
